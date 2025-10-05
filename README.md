@@ -1,8 +1,6 @@
 # Machine_Learning_Concepts
 
 
-**Python ML Libraries Learning Repository**
-
 
 This repository is a collection of notebooks created as part of my personal learning journey in Python for Machine Learning and Data Science. It contains exercises, mini-projects, and examples that help me understand and practice key Python libraries:
 
